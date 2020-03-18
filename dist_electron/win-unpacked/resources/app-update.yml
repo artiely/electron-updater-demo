@@ -1,0 +1,4 @@
+owner: artiely
+repo: electron-updater-demo
+provider: github
+updaterCacheDirName: app-updater

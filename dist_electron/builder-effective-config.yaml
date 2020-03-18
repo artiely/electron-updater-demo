@@ -1,0 +1,11 @@
+directories:
+  output: dist_electron
+  buildResources: build
+  app: dist_electron/bundled
+files:
+  - filter:
+      - '**'
+extends: null
+publish:
+  - github
+electronVersion: 6.1.9
